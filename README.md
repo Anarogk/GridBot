@@ -40,7 +40,7 @@ To run this project, you need to have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/GridBot.git
+   git clone https://github.com/Anarogk/GridBot.git
    cd GridBot
    ```
 
